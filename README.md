@@ -1,0 +1,1 @@
+Demo for Gradle Issue #2302
